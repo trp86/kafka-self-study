@@ -47,3 +47,18 @@ Producers create new messages. By default, the producer does not care what parti
 Consumers
 =========
 Consumers read messages.Consumer subscribes to one or more topics and reads the messages in the order in which they were produced.The consumer keeps track of which messages it has already consumed by keeping track of the offset of messages. The offset is another bit of metadata—an integer value that continually increases—that Kafka adds to each message as it is produced. Each message in a given partition has a unique offset. By storing the offset of the last consumed message for each partition, either in Zookeeper or in Kafka itself, a consumer can stop and restart without losing its place.
+
+
+
+https://www.linkedin.com/in/soovendoo-kumar-parida-31623295/
+https://www.linkedin.com/in/marymehr/
+https://www.linkedin.com/in/ratnesh-jha-a1729026/
+https://www.linkedin.com/in/abhinav-marla-560502a7/
+https://www.linkedin.com/in/ranganathancse/
+https://www.linkedin.com/in/sumitified/
+https://www.linkedin.com/in/ying-keng-ng-94a44624/
+https://www.linkedin.com/in/raja-azveen-raja-muhamad-33087a103/
+https://www.linkedin.com/in/shakila-ruslan-ab1155b6/
+https://www.linkedin.com/in/lai-har-1b802693/
+https://www.linkedin.com/in/emelia-lye-6aa7a843/
+https://www.linkedin.com/in/katrien-van-hover-54527418/
